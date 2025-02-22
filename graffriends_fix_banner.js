@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Graffriends Fix Banner
 // @version      1.0.0
-// @description  2/22/25. Make the banner a hyperlink so you can easily go back to the main page.
+// @description  2/21/25 - 2/22/25. Make the banner a hyperlink so you can easily go back to the main page.
 // @author       Xemt
 // @copyright    2025
 // @license      MIT
@@ -9,6 +9,7 @@
 // @run-at       document-idle
 // @match        https://grafriends.uk/*
 // @icon         none
+// @downloadURL  https://raw.githubusercontent.com/Xemt/userscripts/refs/heads/main/graffriends_fix_banner.js
 // ==/UserScript==
 
 "use strict";
