@@ -9,6 +9,7 @@
 // @run-at       document-idle
 // @match        https://blips.club/account/design
 // @icon         none
+// @downloadURL  https://raw.githubusercontent.com/Xemt/userscripts/refs/heads/main/blips_fix_bg_img_input.js
 // ==/UserScript==
 
 "use strict";
