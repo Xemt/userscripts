@@ -14,7 +14,7 @@ Tampermonkey scripts that I made.
 - On Safari, refresh the scripts, then refresh the tabs.
 - You can also close, then reopen Safari as well. 
 ## Help
-If the script doesn't run after installation, try restarting your browser.
+If the script doesn't run after installation, try refreshing the page, or restarting your browser.
 ## Author
 [Xemt](https://github.com/Xemt).
 ## License
