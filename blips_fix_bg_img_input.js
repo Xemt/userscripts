@@ -17,6 +17,4 @@
 var new_len = 9e9 * 2;
 var input_elem = document.querySelectorAll("input")[1];
 
-for (var maxlen_prop of ["maxlength", "maxLength"]) {
-  input_elem[maxlen_prop] = new_len;
-}
+["maxlength", "maxLength"].forEach(maxlen_prop => input_elem[maxlen_prop] = new_len);
