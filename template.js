@@ -10,6 +10,9 @@
 // @match        http://*
 // @match        https://*
 // @icon         none
+// @downloadURL  ...
+// @updateURL    ...
+// @supportURL   ...
 // ==/UserScript==
 
 "use strict";
