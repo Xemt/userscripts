@@ -9,7 +9,7 @@ Tampermonkey scripts that I made.
 #### For Tampermonkey
 - Go to the script page, and hit "Raw".
 - Alternatively, you can copy the source code, hit "Create a new script..." on Tampermonkey, and paste that code. 
-#### For Userscripts
+#### For Userscripts (Safari extension)
 - Save the script, then move it in the folder with your scripts (if you have to).
 - On Safari, refresh the scripts, then refresh the tabs.
 - You can also close, then reopen Safari as well. 
