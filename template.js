@@ -10,9 +10,7 @@
 // @match        http://*
 // @match        https://*
 // @icon         none
-// @downloadURL  ...
-// @updateURL    ...
-// @supportURL   ...
+// @downloadURL  https://raw.githubusercontent.com/Xemt/userscripts/refs/heads/main/template.js
 // ==/UserScript==
 
 "use strict";
