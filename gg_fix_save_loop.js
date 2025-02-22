@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Graffiti General Save Loop Fix
+// @name         Graffiti General Fix Save Loop
 // @version      1.0.0
 // @description  7/19/24 - 2/22/25. Fix loop when saving a wall in Graffiti General. NOTE: It doesn't save your drawing.
 // @author       Xemt
@@ -8,6 +8,7 @@
 // @grant        none
 // @run-at       document-end
 // @match        http://www.graffitigeneral.com/*
+// @downloadURL  https://raw.githubusercontent.com/Xemt/userscripts/refs/heads/main/gg_fix_save_loop.js
 // ==/UserScript==
 
 "use strict";
