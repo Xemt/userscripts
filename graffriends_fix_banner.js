@@ -7,7 +7,8 @@
 // @license      MIT
 // @grant        none
 // @run-at       document-idle
-// @match        https://grafriends.uk/*
+// @match	 https://grafriends.com/*
+// @match        https://graffriends.uk/*
 // @icon         none
 // @downloadURL  https://raw.githubusercontent.com/Xemt/userscripts/refs/heads/main/graffriends_fix_banner.js
 // ==/UserScript==
